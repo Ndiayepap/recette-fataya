@@ -154,10 +154,9 @@ table.preparation tr {
     background-color: black; 
     color: #316a8b;
     margin-top: 0px;
-    margin-bottom: 0px;
     margin-left: auto;
     margin-right: auto;
-    font-size: 10px;
+    font-size: 13px;
 }
 
 /* Styles pour ordinateur */
@@ -190,6 +189,7 @@ table.preparation tr {
     
     div.colonne2 {
         float: right;
+        max-height: 359px;
     }
    
     .fraim {
