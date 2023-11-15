@@ -185,11 +185,11 @@ table.preparation tr {
     
     div.colonne1 {
         margin-right: 10%;
+        margin-bottom:14px;
     }
     
     div.colonne2 {
         float: right;
-        max-height: 359px;
     }
    
     .fraim {
