@@ -191,9 +191,10 @@ table.preparation tr {
     div.colonne2 {
         float: right;
     }
-
+   
     .fraim {
-        font-size: 15px; 
+        font-size: 15px;
+        padding: 35px; 
     }
 }
 
@@ -202,12 +203,6 @@ table.preparation tr {
         margin-left: auto;
         margin-right: auto;
         width: 645px;
-    }
-
-    
-    .fraim {
-        font-size: 15px;
-        padding: 35px 40px 35px 40px;
     }
 }
 
